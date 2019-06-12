@@ -1,2 +1,2 @@
 # Simulation
-Using different algorithms to simulate output
+Using different algorithms to approximate output with simulation
